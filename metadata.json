@@ -1,0 +1,6 @@
+{
+  "name": "Grievance Scribe",
+  "description": "AI-Powered Citizen Request Navigator helping citizens understand whether they need an RTI or Grievance, validate facts, structure requests, discover official government portals, and track progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
